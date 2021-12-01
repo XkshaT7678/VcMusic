@@ -5,7 +5,7 @@ Telegram Voice-Chat Bot To Play Music With Pytgcalls From Various Sources In You
 <img src="https://hamker.me/wl9twld.png" width="500" height="300">
 
 
-## Requirements
+## ⇝ Requirements ⇜
 
 ### Account requirements
 - A Telegram account to use as the music bot, **You cannot use regular bot accounts, as they cannot join voice chats. *It must be a user account.***
@@ -52,26 +52,11 @@ $ python3 generate_string_session.py
 Fork this repository and change name of `sample_config.py` to `config.py`
 Then you will need get a session string, copy it, then press heroku deploy button.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/thehamkercat/Telegram_VC_Bot/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Akshat7678/VcMusic/tree/master)
 
 
-Send [commands](https://github.com/thehamkercat/Telegram_VC_Bot/blob/master/README.md#commands) to bot to 
-play music.
+Send [commands](#commands) to bot to play music.
 
-
-## Docker
-
-```sh
-$ git clone https://github.com/thehamkercat/Telegram_VC_Bot && cd Telegram_VC_Bot
-$ cp sample.env .env
-```
-Edit **.env** with your own values.
-
-```sh
-$ sudo docker build . -t tgvc-bot
-$ sudo docker run tgvc-bot
-```
-To stop use `CTRL+C`
 
 
 ## Commands
