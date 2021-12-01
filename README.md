@@ -5,7 +5,7 @@ Telegram Voice-Chat Bot To Play Music With Pytgcalls From Various Sources In You
 <img src="https://hamker.me/wl9twld.png" width="500" height="300">
 
 
-## ⇝ Requirements ⇜
+##           ⇝ Requirements ⇜
 
 ### Account requirements
 - A Telegram account to use as the music bot, **You cannot use regular bot accounts, as they cannot join voice chats. *It must be a user account.***
@@ -17,24 +17,6 @@ Telegram Voice-Chat Bot To Play Music With Pytgcalls From Various Sources In You
 - Python 3.9 or later.
 - ffmpeg package, look below for instructions.
 
-
-## Run (Assuming you have a debian-based distro)
-
-
-
-```sh
-$ git clone https://github.com/thehamkercat/Telegram_VC_Bot
-$ cd Telegram_VC_Bot
-$ sudo apt-get install ffmpeg
-$ pip3 install -U pip
-$ pip3 install -U -r requirements.txt
-$ cp sample_config.py config.py
-```
-Edit **config.py** with your own values.
-
-```sh
-$ python3 main.py
-```
 
 ## Heroku
 
