@@ -18,9 +18,7 @@ Telegram Voice-Chat Bot To Play Music With Pytgcalls From Various Sources In You
 - ffmpeg package, look below for instructions.
 
 
-## Heroku
-
-Read this -> https://t.me/TGVCSupport/17542
+## ⇝ Heroku ⇜
 
 #### Generate String session [IMPORTANT]
 
