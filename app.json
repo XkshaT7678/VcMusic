@@ -1,7 +1,7 @@
 {
-  "name": "Telegram Voice Chat Bot",
+  "name": "VcMusic",
   "description": "Telegram Voice-Chat Bot Written In Python Using Pytgcalls & Pyrogram.",
-  "repository": "https://github.com/thehamkercat/Telegram_VC_Bot",
+  "repository": "https://github.com/Akshat7677/VcMusic",
   "logo": "https://i.imgur.com/8S8NVy0.png",
   "keywords": [
     "python",
@@ -37,7 +37,7 @@
     },
     "DEFAULT_SERVICE": {
             "description": "Must be one of youtube/saavn.",
-            "value": "saavn",
+            "value": "youtube",
             "required": true
     },
     "BITRATE": {
