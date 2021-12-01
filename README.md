@@ -13,12 +13,6 @@ Telegram Voice-Chat Bot To Play Music With Pytgcalls From Various Sources In You
 - API_ID and API_HASH for that account.
 - The account must be an admin of the chat, with _Manage Voice Chats_ and _Delete Messages_ permissions.
 
-### Environment requirements
-- Linux-based OS. **You cannot run this on Windows natively, Use WSL**
-- Python 3.9 or later.
-- ffmpeg package, look below for instructions.
-
-
 ## ⇝ Heroku ⇜
 
 #### Generate String session [IMPORTANT]
@@ -29,7 +23,6 @@ Download this file [generate_string_session.py](https://raw.githubusercontent.co
 
 
 Send [commands](#commands) to bot to play music.
-
 
 
 ## Commands
