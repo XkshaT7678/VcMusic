@@ -25,14 +25,6 @@ Telegram Voice-Chat Bot To Play Music With Pytgcalls From Various Sources In You
 
 Download this file [generate_string_session.py](https://raw.githubusercontent.com/thehamkercat/Telegram_VC_Bot/master/generate_string_session.py)
 
-
-```sh
-$ pip3 install pyrogram TgCrypto
-$ python3 generate_string_session.py
-```
-Fork this repository and change name of `sample_config.py` to `config.py`
-Then you will need get a session string, copy it, then press heroku deploy button.
-
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Akshat7678/VcMusic/tree/master)
 
 
