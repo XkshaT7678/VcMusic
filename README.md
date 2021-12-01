@@ -1,9 +1,6 @@
-### (c) Akshat7678
-# Telegram Voice-Chat Bot [PyTGCalls] [![Mentioned in Awesome Telegram Calls](https://awesome.re/mentioned-badge-flat.svg)](https://github.com/tgcalls/awesome-tgcalls)
+## Telegram Voice-Chat Bot [PyTGCalls] [![Mentioned in Awesome Telegram Calls](https://awesome.re/mentioned-badge-flat.svg)](https://github.com/tgcalls/awesome-tgcalls)
 
-Telegram Voice-Chat Bot To Play Music With Pytgcalls From Various Sources In Your Group.
-
-<img src="https://hamker.me/wl9twld.png" width="500" height="300">
+<img src="https://telegra.ph/file/925bbb43a6bd624125f3c.jpg" width="500" height="500">
 
 
 ##           ⇝ Requirements ⇜
@@ -14,16 +11,7 @@ Telegram Voice-Chat Bot To Play Music With Pytgcalls From Various Sources In You
 - The account must be an admin of the chat, with _Manage Voice Chats_ and _Delete Messages_ permissions.
 
 ## ⇝ Heroku ⇜
-
-#### Generate String session [IMPORTANT]
-
-Download this file [generate_string_session.py](https://raw.githubusercontent.com/thehamkercat/Telegram_VC_Bot/master/generate_string_session.py)
-
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Akshat7678/VcMusic/tree/master)
-
-
-Send [commands](#commands) to bot to play music.
-
 
 ## Commands
 Command | Description
