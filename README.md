@@ -1,3 +1,4 @@
+### (c) Akshat7678
 # Telegram Voice-Chat Bot [PyTGCalls] [![Mentioned in Awesome Telegram Calls](https://awesome.re/mentioned-badge-flat.svg)](https://github.com/tgcalls/awesome-tgcalls)
 
 Telegram Voice-Chat Bot To Play Music With Pytgcalls From Various Sources In Your Group.
@@ -55,13 +56,3 @@ Command | Description
 /volume [1-200] | Adjust Volume.
 /pause | Pause Music.
 /resume | Resume Music.
-
-
-## Note
-
-1. If you want any help you can ask [here](https://t.me/tgvcsupport)
-
-## Credits
-
-1. [@MarshalX](https://github.com/MarshalX), For [TGCalls](https://github.com/MarshalX/tgcalls)
-2. Thanks to everyone who contributed to the project.
