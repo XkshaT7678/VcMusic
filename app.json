@@ -44,6 +44,11 @@
             "description": "Must be 512/320.",
             "value": "512",
             "required": true
+    },
+    "CHAT_ID": {
+            "description": "The I'd of group u wanna play music!",
+            "required": true
+
     }
   },
   "formation": {
