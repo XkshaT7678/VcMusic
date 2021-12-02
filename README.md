@@ -1,6 +1,6 @@
 ## Telegram Voice-Chat Bot [PyTGCalls] [![Mentioned in Awesome Telegram Calls](https://awesome.re/mentioned-badge-flat.svg)](https://github.com/tgcalls/awesome-tgcalls)
 
-<img src="https://telegra.ph/file/925bbb43a6bd624125f3c.jpg" width="500" height="500">
+<img src="https://telegra.ph/file/925bbb43a6bd624125f3c.jpg" width="250" height="250">
 
 
 ##           ⇝ Requirements ⇜
