@@ -101,34 +101,6 @@ async def leavevc(_, message):
     await message.reply_text("__**Left The Voice Chat**__")
     await message.delete()
 
-# AllowChat
-
-
-@app.on_message(filters.command("authorize") & filters.user(owner_id))
-async def authorize(_, message):
-    global sudo_chats
-    chat_id = message.chat.id
-    if chat_id in sudo_chats:
-        await message.reply_text("Chat Already Authorized.")
-        return
-    sudo_chats.append(chat_id)
-    await message.reply_text("Chat Authorized.")
-
-
-# Deny Chats
-
-
-@app.on_message(filters.command("unauthorize") & filters.user(owner_id))
-async def unauthorize(_, message):
-    global sudo_chats
-    chat_id = message.chat.id
-    if chat_id not in sudo_chats:
-        await message.reply_text("Chat Already Unauthorized.")
-        return
-    sudo_chats.remove(chat_id)
-    await message.reply_text("Chat Unauthorized.")
-
-
 @app.on_message(
     filters.command("volume")
     & ~filters.private
